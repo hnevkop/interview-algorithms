@@ -1,5 +1,10 @@
 # INTERVIEW data structures and algorithms
 
+## Status
+
+[![Java CI with Maven](https://github.com/hnevkop/interview-algorithms/actions/workflows/maven.yml/badge.svg)](https://github.com/hnevkop/interview-algorithms/actions/workflows/maven.yml)
+
+
 ## Data Structures
 
 - [BinaryHeap.java](/src/main/java/datastructures/BinaryHeap.java)
